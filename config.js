@@ -12,7 +12,7 @@
 // • Rasel comel
 // • LeonGanz
 // • Xtreshe (Beban)
-// • Dll
+// • Geeru
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -60,16 +60,16 @@ global.ppulsa2 = '085891056005'
 global.psaweria = 'Chat Owner'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '085891056005'
-global.nomorown = '085707042602'
+global.nomorbot = '6285891056005'
+global.nomorown = '6285707042602'
 global.namebot = 'GeeruuID'
 global.nameown = 'Geeru'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['085707042602', 'Sewa Bot', true],
-  ['085707042602', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6285707042602', 'Sewa Bot', true],
+  ['6285707042602', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
